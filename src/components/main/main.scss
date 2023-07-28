@@ -1,0 +1,90 @@
+.main {
+  width: 100%;
+  min-height: 403px;
+  display: flex;
+  justify-content: space-between;
+  background-image: url("../../img/ritual.png");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  margin-top: 250px;
+
+  &__content {
+    max-width: 501px;
+    margin: 70px 0 0 377px;
+
+    &_title {
+      font-size: 50px;
+      letter-spacing: -2px;
+      margin-top: -5px;
+    }
+
+    &_subtitle {
+      font-size: 24px;
+      letter-spacing: -0.4px;
+    }
+
+    &_desc {
+      line-height: 146%;
+      margin-top: 12px;
+    }
+
+    &_buttons {
+      display: flex;
+      margin-top: 25px;
+
+      button {
+        display: flex;
+        max-width: 172px;
+        width: 100%;
+        min-height: 53px;
+        justify-content: center;
+        align-items: center;
+        border-radius: 6px;
+        border: 2px solid #A30040;
+        background: #A30040;
+        color: #FFF;
+        font-size: 15px;
+        font-weight: 700;
+        letter-spacing: 0.5px;
+        padding-left: 8px;
+        cursor: pointer;
+      }
+
+      button:last-child {
+        background: white;
+        margin-left: 43px;
+        color: #A30040;
+        letter-spacing: -0.4px;
+        padding-left: 0;
+      }
+    }
+  }
+}
+
+.main__content_buttons button:first-child:hover {
+  background: #fa0267;
+  border: 2px solid #fa0267;
+  transition: .5s;
+}
+
+.main__content_buttons button:last-child:hover {
+  background: #ff0064;
+  color: #ffffff;
+  border: 2px solid #fa0267;
+  transition: .5s;
+}
+
+
+//media
+
+@media (max-width: 1770px) {
+  .main__content {
+    margin: 70px 0 0 60px;
+  }
+
+  .main {
+    background-image: url("../../img/ritual1.png");
+  }
+}
+
+

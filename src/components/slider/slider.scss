@@ -1,0 +1,148 @@
+img {
+  width: 241px;
+  height: 400px;
+}
+
+.carousel-inner {
+  width: 30%;
+  margin: 3px 0 0 120px;
+}
+
+.carousel {
+  width: 50%;
+}
+
+.carousel-indicators {
+  bottom: -21px!important;
+}
+
+.carousel-indicators {
+  margin-left: 23%!important;
+}
+
+.carousel-indicators [data-bs-target] {
+  background-color: red!important;
+}
+
+.carousel-control-prev {
+  display: none!important;
+}
+
+.carousel-control-next {
+  display: none!important;
+}
+
+.dark__content {
+  display: flex;
+}
+
+.dark__content_left {
+  margin-top: 84px;
+  text-align: center;
+  margin-left: 8px;
+
+  p {
+    color: #FFF;
+    margin-bottom: 0!important;
+    margin-top: 8px;
+  }
+
+  p:first-child {
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 12.8px;
+  }
+
+  p:nth-child(2) {
+    font-size: 32px;
+    font-weight: 500;
+    line-height: 25.6px;
+  }
+
+  p:nth-child(3) {
+    font-size: 11.8px;
+    line-height: 37.36px;
+    letter-spacing: 1.5px;
+  }
+  p:nth-child(4) {
+    font-size: 11.8px;
+    line-height: 2.36px;
+    letter-spacing: 1.5px;
+  }
+  p:nth-child(5) {
+    font-size: 11.8px;
+    line-height: 41.36px;
+    letter-spacing: 1.5px;
+  }
+  p:nth-child(6) {
+    font-size: 11.8px;
+    line-height: 2.36px;
+    letter-spacing: 1.5px;
+  }
+
+  p:nth-child(7) {
+    color: #8B8B8B;
+    font-size: 18.8px;
+    letter-spacing: 1.4px;
+    line-height: 47.96px;
+    text-decoration-line: line-through;
+  }
+
+  p:last-child {
+    font-size: 32px;
+    font-weight: 500;
+    letter-spacing: 2px;
+    line-height: 0.4px;
+  }
+}
+
+img {
+  margin-left: 51px;
+}
+
+.dark__content_right {
+  margin-left: 20px;
+
+  p:first-child {
+    color: #FFF;
+    font-size: 20px;
+    margin-left: -6px;
+    letter-spacing: 1.4px;
+    text-transform: uppercase;
+    margin-bottom: 67px;
+  }
+
+  p:nth-child(2), li {
+    margin-top: 18px;
+    color: #293775;
+    font-size: 16px;
+    font-weight: 300;
+    letter-spacing: 1px;
+  }
+
+  p:nth-child(2) {
+    margin-left: -9px;
+  }
+
+  li:last-child {
+    max-width: 225px;
+    line-height: 20px;
+  }
+
+  li::marker {
+    margin: 0!important;
+  }
+}
+
+.carousel-indicators .active {
+  transform: rotate(360deg);
+  transition: 6s!important;
+}
+
+//media
+@media (max-width: 1770px) {
+  .carousel {
+    position: relative;
+    margin-right: 77px;
+  }
+}
