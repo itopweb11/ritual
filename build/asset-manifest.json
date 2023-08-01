@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/itopweb11/ritual.git/static/css/main.db6f44c2.css",
+    "main.js": "/itopweb11/ritual.git/static/js/main.904e985e.js",
+    "static/js/787.ffa236b8.chunk.js": "/itopweb11/ritual.git/static/js/787.ffa236b8.chunk.js",
+    "static/media/r3.png": "/itopweb11/ritual.git/static/media/r3.18c5244b7cb7eb0f4f5f.png",
+    "static/media/r1.png": "/itopweb11/ritual.git/static/media/r1.16463c0f4373c9dd852e.png",
+    "static/media/r2.png": "/itopweb11/ritual.git/static/media/r2.0c39110be9e16487db73.png",
+    "static/media/ritual1.png": "/itopweb11/ritual.git/static/media/ritual1.af2190e2971d4810d04d.png",
+    "static/media/ritual.png": "/itopweb11/ritual.git/static/media/ritual.c4b42994d8eb3f86251f.png",
+    "index.html": "/itopweb11/ritual.git/index.html",
+    "main.db6f44c2.css.map": "/itopweb11/ritual.git/static/css/main.db6f44c2.css.map",
+    "main.904e985e.js.map": "/itopweb11/ritual.git/static/js/main.904e985e.js.map",
+    "787.ffa236b8.chunk.js.map": "/itopweb11/ritual.git/static/js/787.ffa236b8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db6f44c2.css",
+    "static/js/main.904e985e.js"
+  ]
+}
