@@ -1,20 +1,22 @@
 {
   "files": {
-    "main.css": "/ritual/static/css/main.ce915e84.css",
-    "main.js": "/ritual/static/js/main.48015e5e.js",
+    "main.css": "/ritual/static/css/main.95a2c305.css",
+    "main.js": "/ritual/static/js/main.21a4913e.js",
     "static/js/787.ffa236b8.chunk.js": "/ritual/static/js/787.ffa236b8.chunk.js",
     "static/media/r3.png": "/ritual/static/media/r3.18c5244b7cb7eb0f4f5f.png",
     "static/media/r1.png": "/ritual/static/media/r1.16463c0f4373c9dd852e.png",
     "static/media/r2.png": "/ritual/static/media/r2.0c39110be9e16487db73.png",
     "static/media/ritual1.png": "/ritual/static/media/ritual1.af2190e2971d4810d04d.png",
     "static/media/ritual.png": "/ritual/static/media/ritual.c4b42994d8eb3f86251f.png",
+    "static/media/ritual2.png": "/ritual/static/media/ritual2.639a0c8226a5175fbcf0.png",
+    "static/media/ritual3.png": "/ritual/static/media/ritual3.43eb37babc94b55aa27d.png",
     "index.html": "/ritual/index.html",
-    "main.ce915e84.css.map": "/ritual/static/css/main.ce915e84.css.map",
-    "main.48015e5e.js.map": "/ritual/static/js/main.48015e5e.js.map",
+    "main.95a2c305.css.map": "/ritual/static/css/main.95a2c305.css.map",
+    "main.21a4913e.js.map": "/ritual/static/js/main.21a4913e.js.map",
     "787.ffa236b8.chunk.js.map": "/ritual/static/js/787.ffa236b8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ce915e84.css",
-    "static/js/main.48015e5e.js"
+    "static/css/main.95a2c305.css",
+    "static/js/main.21a4913e.js"
   ]
 }
