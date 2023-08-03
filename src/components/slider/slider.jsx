@@ -19,6 +19,10 @@ const DarkVariantExample = () => {
                                 <p>{elem.priceFrom}</p>
                             </div>
                             <img className="dark__content_img" src={elem.img} alt="r1"/>
+                            <div className="dark__media">
+                                <p>{elem.specialOffer}</p>
+                                <img className="dark__content_img_media" src={elem.img} alt="r1"/>
+                            </div>
                             <div className="dark__content_right">
                                 <p>{elem.specialOffer}</p>
                                 <p>{elem.set}</p>

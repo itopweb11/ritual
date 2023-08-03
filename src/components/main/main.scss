@@ -6,7 +6,6 @@
   background-image: url("../../img/ritual.png");
   background-repeat: no-repeat;
   background-size: 100% 100%;
-  margin-top: 250px;
 
   &__content {
     max-width: 501px;
@@ -26,6 +25,7 @@
     &_desc {
       line-height: 146%;
       margin-top: 12px;
+      font-weight: 400;
     }
 
     &_buttons {
@@ -88,3 +88,41 @@
 }
 
 
+@media (max-width: 1500px) {
+  .main {
+    background-image: url("../../img/ritual2.png");
+    min-height: 790px;
+    flex-direction: column;
+    align-items: center;
+    justify-content: start;
+  }
+
+  .main__content {
+    margin: 35px 0 0 0;
+    max-width: 625px;
+  }
+}
+
+@media (max-width: 900px) {
+  .main {
+    background-image: url("../../img/ritual3.png");
+    min-height: 780px;
+    align-items: start;
+  }
+
+  .main__content {
+    margin: 35px 15px 0 15px;
+  }
+}
+
+@media (max-width: 400px) {
+  .main__content_buttons button:last-child {
+    margin-left: 15px;
+  }
+}
+
+@media (max-width: 329px) {
+  .main__content_title {
+    font-size: 29px!important;
+  }
+}

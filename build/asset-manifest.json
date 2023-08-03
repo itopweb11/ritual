@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ritual/static/css/main.25c316b7.css",
+    "main.css": "/ritual/static/css/main.ce915e84.css",
     "main.js": "/ritual/static/js/main.48015e5e.js",
     "static/js/787.ffa236b8.chunk.js": "/ritual/static/js/787.ffa236b8.chunk.js",
     "static/media/r3.png": "/ritual/static/media/r3.18c5244b7cb7eb0f4f5f.png",
@@ -9,12 +9,12 @@
     "static/media/ritual1.png": "/ritual/static/media/ritual1.af2190e2971d4810d04d.png",
     "static/media/ritual.png": "/ritual/static/media/ritual.c4b42994d8eb3f86251f.png",
     "index.html": "/ritual/index.html",
-    "main.25c316b7.css.map": "/ritual/static/css/main.25c316b7.css.map",
+    "main.ce915e84.css.map": "/ritual/static/css/main.ce915e84.css.map",
     "main.48015e5e.js.map": "/ritual/static/js/main.48015e5e.js.map",
     "787.ffa236b8.chunk.js.map": "/ritual/static/js/787.ffa236b8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.25c316b7.css",
+    "static/css/main.ce915e84.css",
     "static/js/main.48015e5e.js"
   ]
 }
